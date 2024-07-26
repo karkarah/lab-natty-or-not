@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Podcast Café com DAdos episódio Ciencia de Dados do Sonho;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar um diálogo dinamico entre entevistado cientista de dados e apresentador
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT, BlackBox, Claude, ElevemLabs, Champ
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+criando agente para estabbelecer diálogo e questinando entre eles
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+texto e audio
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Apesar de facilidade de gerar, ainda assim aparecem detalhes como emoções
 ```
 
 ### Exemplos e Insigths
